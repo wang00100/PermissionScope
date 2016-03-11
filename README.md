@@ -1,3 +1,4 @@
+<p>向用户请求 iOS 权限的封装组件。封装库 API 调用非常方便，调用代码也很精简。一个很好的“轮子”，值得收录。</p>
 <p align="center">
     <img src="http://raquo.net/images/banner.png" alt="PermissionScope" />
 </p>
